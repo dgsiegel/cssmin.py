@@ -1,0 +1,18 @@
+cssmin.py
+---------
+
+a simple css minifier
+
+based on simple css minifier by rafał jońca.
+http://blog.rafaljonca.org/2007/11/simple-css-minifier.html
+
+usage
+-----
+
+python cssmin.py style.css > style.min.css
+
+
+license
+-------
+
+the (original) code is available on double license: gpl and mit.
